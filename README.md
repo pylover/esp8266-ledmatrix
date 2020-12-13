@@ -1,8 +1,4 @@
-# esp8266-httpserver-demo
-https://github.com/pylover/esp8266-httpserver demo project
-
-
-
+# WEMOS-LEDMatrix
 
 ### Build
 
@@ -14,9 +10,7 @@ to setup your environment.
 cd myenv
 source activate.sh
 
-git clone --recursive git@github.com:pylover/esp8266-httpserver-demo.git demo
-cd demo
-
+cd wemos-ledmatix
 make clean
 make assets_map6user1
 make flash_map6user1 
