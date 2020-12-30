@@ -1,4 +1,4 @@
-# WEMOS-LEDMatrix
+# esp8266-ledmatrix
 
 ### Build
 
@@ -10,7 +10,7 @@ to setup your environment.
 cd myenv
 source activate.sh
 
-cd wemos-ledmatix
+cd esp8266-ledmatix
 make clean
 make assets_map6user1
 make flash_map6user1 
